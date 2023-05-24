@@ -1,1 +1,5 @@
-# Link3RewardChecker
+# Чекер наград https://link3.to/cyberconnect/fanclub
+## ЗАПУСК ПРОГРАММЫ
+### npm i
+### node index.js
+#### p.s. после старта нужно ввести номер недели, награды которой необходимо проверить
